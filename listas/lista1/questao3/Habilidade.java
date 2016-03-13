@@ -2,9 +2,9 @@ package questao3;
 
 public class Habilidade {
 	
-	String nome;
-	int dano;
-	int mana;
+	private String nome;
+	private int dano;
+	private int mana;
 	
 	//Constructor
 	public Habilidade(String nome, int dano, int mana) {
