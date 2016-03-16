@@ -1,7 +1,7 @@
 # [Lista 1 - Introducao OO](https://goo.gl/DE0MrB)
 
 - [ ] Questao 1
-- [ ] Questao 2
+- [x] Questao 2
 - [x] Questao 3
 - [ ] Questao 4
 - [ ] Questao 5
